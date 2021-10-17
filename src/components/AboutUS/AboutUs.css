@@ -1,0 +1,13 @@
+.head-about-us{
+    font-family: 'Exo', sans-serif;
+}
+.about-us-div{
+    margin-top:12px ;
+}
+.text-opicety{
+    opacity: .8;
+}
+.about-us-content{
+    text-align: justify!important;
+    font-size: 15px;
+}
